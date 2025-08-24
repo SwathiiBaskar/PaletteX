@@ -44,6 +44,7 @@ Ensure you have the following Python packages installed:
 
 ```bash
 pip install opencv-python numpy screeninfo spectrasketch
+```
 
 ---
 
