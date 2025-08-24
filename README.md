@@ -23,7 +23,7 @@ Sketchy is ideal for hobbyists, students, or developers looking to explore drawi
 
 ---
 
-![PaletteX Art](assets/test_image)
+![PaletteX Art](assets/test_image.png)
 
 ---
 
