@@ -2,7 +2,7 @@
 
 PaletteX is a feature-rich, fullscreen desktop drawing application built with Python and OpenCV, designed for intuitive shape-based sketching and freehand drawing. The project includes a custom toolbar with tools for selecting shapes, adjusting brush thickness, choosing colors, filling areas, and more - all laid out in a clean, visually structured UI.
 
-What sets this project apart is its use of a custom-built library, spectrasketch.ShapeLab, developed specifically to simplify drawing geometric shapes and modularize canvas operations.
+What sets this project apart is its use of a custom-built library, **spectrasketch.ShapeLab**, developed specifically to simplify drawing geometric shapes and modularize canvas operations.
 
 Sketchy is ideal for hobbyists, students, or developers looking to explore drawing mechanics, GUI design, and OpenCV’s creative potential.
 
